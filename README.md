@@ -1,4 +1,4 @@
-### Hi there 👋 Aastha Mahindra
+<h1> Hi there 👋 Aastha Mahindra </h1>
 
 Skills:
 <p>
