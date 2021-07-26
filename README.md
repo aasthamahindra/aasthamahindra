@@ -25,8 +25,10 @@
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='github' height='40'>](www.linkedin.com/in/aastha-mahindra) 
 [<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>](https://www.instagram.com/aastha_mahindra/)
 
+![Profile views] (https://gpvc.arturio.dev/aastha-m125)
+  
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=hi-manshu&column=7"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=aastha-m125&column=7"/>
 </a>
   
 <div>
