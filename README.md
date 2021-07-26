@@ -8,14 +8,14 @@
 
 Skills:
 
-  
-<p>
-   <a href="https://www.linkedin.com/in/aastha-mahindra"><img alt="LinkedIn" height="30" width="30" src="assets/linkedin.svg"></a>
-   <a href="https://www.instagram.com/aastha_mahindra/"><img alt="Instagram" height="30" width="30" src="assets/instagram.svg"></a>
-   <a href="https://github.com/aastha-m125"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
- 
-<p>
-  
+[<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/aastha-m125) 
+[<img src='(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)' alt='github' height='40'>](www.linkedin.com/in/aastha-mahindra) 
+[<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>](https://www.instagram.com/aastha_mahindra/)
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=hi-manshu&column=7"/>
+</a>
+
 <!-- ### Languages & Tools 👨‍💻 🛠 -->
 <p>
   <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
