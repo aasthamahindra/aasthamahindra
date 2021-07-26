@@ -19,7 +19,7 @@
 - 💬 Ask me about Java
 - 📫 How to reach me: aastha.mahindra125@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Travelling 🗺️
+- ⚡ Fun fact: Travelling 🌏
 
 
 [<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/aastha-m125) 
