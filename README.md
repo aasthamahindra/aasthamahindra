@@ -1,4 +1,4 @@
-### Hi there 👋 Nandini Chhajed
+### Hi there 👋 Aastha Mahindra
 - 🌱 I’m currently learning Android App Development
 - 👯 I’m looking to collaborate on Android projects 
 - 💬 Ask me about Java
