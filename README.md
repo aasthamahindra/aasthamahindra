@@ -28,7 +28,7 @@
 [<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>](https://www.instagram.com/aastha_mahindra/)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=aasthamahindra&row=1&column=5"/>
+  <img width=500 src="https://github-profile-trophy.vercel.app/?username=aasthamahindra&column=5"/>
 </a>
 
 <hr style="border:2px solid gray"> </hr>
