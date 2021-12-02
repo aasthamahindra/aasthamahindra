@@ -23,17 +23,17 @@
 - ⚡ Fun fact: I'm obsessed with Travelling 🌏
 
 
-[<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/aastha-m125) 
+[<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/aasthamahindra) 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='github' height='40'>](https://www.linkedin.com/in/aastha-mahindra/)
 [<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>](https://www.instagram.com/aastha_mahindra/)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=aastha-m125&column=7"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=aasthamahindra5&column=7"/>
 </a>
 
 <hr style="border:2px solid gray"> </hr>
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=aastha-m125&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastha-m125&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthamahindra&layout=compact" />
 </div>
