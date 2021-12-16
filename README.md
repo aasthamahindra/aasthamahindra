@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning Android App Development in Kotlin
 - 👯 I’m looking to collaborate on Java-based Android Projects 
-- 💬 Ask me about Kotlin
+- 💬 Ask me about Java
 - 📫 How to reach me: aastha.mahindra125@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm obsessed with Travelling 🌏
