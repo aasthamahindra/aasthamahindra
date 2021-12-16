@@ -15,9 +15,9 @@
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height = '30'/>
 </p>
 
-- 🌱 I’m currently learning Android App Development
-- 👯 I’m looking to collaborate on Android projects 
-- 💬 Ask me about Java
+- 🌱 I’m currently learning Android App Development in Kotlin
+- 👯 I’m looking to collaborate on Java-based Android Projects 
+- 💬 Ask me about Kotlin
 - 📫 How to reach me: aastha.mahindra125@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm obsessed with Travelling 🌏
