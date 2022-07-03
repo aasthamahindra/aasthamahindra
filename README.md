@@ -1,4 +1,4 @@
-<h1> Hi there 👋, my name is Aastha Mahindra </h1>
+<h1> Hey there 👋, I am Aastha Mahindra </h1>
 
 <h3> Skills: </h3>
 <p>
