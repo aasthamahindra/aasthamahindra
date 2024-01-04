@@ -2,13 +2,13 @@
 
 <p align="center"><img src="./img.png" alt="aasthamahindra"/>
 
-- 🌱 I’m currently learning **to build APIs using GraphQL.**
+🌱 I’m currently learning **to build APIs using GraphQL.**
 
-- 💬 Ask me about **Android, Spring Boot, and Node JS.**
+💬 Ask me about **Android, Spring Boot, and Node JS.**
 
-- 📫 How to reach me **aastha.mahindra125@gmail.com**
+📫 How to reach me **aastha.mahindra125@gmail.com**
 
-- ⚡ Fun fact **I'm obsessed with Travelling 🌏**
+⚡ Fun fact **I'm obsessed with Travelling 🌏**
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
