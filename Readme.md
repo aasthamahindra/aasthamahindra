@@ -2,9 +2,9 @@
 
 <p align="center"><img src="./img.png" alt="aasthamahindra"/>
 
-🌱 I’m currently learning **to build APIs using GraphQL.**
+🌱 I’m currently learning **FastAPI - Python.**
 
-💬 Ask me about **Android, Spring Boot, and Node JS.**
+💬 Ask me about **Android, Python and Node JS.**
 
 📫 How to reach me **aastha.mahindra125@gmail.com**
 
