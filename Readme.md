@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **FastAPI - Python.**
 
-💬 Ask me about **Android, Python and Node JS.**
+💬 Ask me about **Python and Node JS.**
 
 📫 How to reach me **aastha.mahindra125@gmail.com**
 
