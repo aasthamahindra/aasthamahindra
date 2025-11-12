@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aastha Mahindra</h1>
 
 <p align="center"><img src="./img.png" alt="aasthamahindra"/>
-
-🌱 I’m currently learning **Starlette - Python.**
-
-💬 Ask me about **Python and Node JS.**
-
+  
 📫 How to reach me **aastha.mahindra125@gmail.com**
 
 ⚡ Fun fact **I'm obsessed with Travelling 🌏**
