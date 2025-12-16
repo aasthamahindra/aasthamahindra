@@ -10,11 +10,10 @@
 <p align="center">
 <a href="https://hashnode.com/@aasthamahindra" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@aasthamahindra" height="40" /></a>
 &nbsp&nbsp
-<a href="https://linkedin.com/in/aastha-mahindra" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aastha-mahindra" height="40" /></a> 
-&nbsp&nbsp
 <a href="https://leetcode.com/aastham16/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="40" /> </a>
 &nbsp&nbsp
-<!-- <a href="https://www.leetcode.com/xyz" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="xyz" height="40" /></a> -->
+<a href="https://linkedin.com/in/aastha-mahindra" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aastha-mahindra" height="40" /></a> 
+&nbsp&nbsp
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
