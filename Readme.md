@@ -1,60 +1,74 @@
-<h1 align="center">Hi 👋, I'm Aastha Mahindra</h1>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+love+building+cool+stuff+%F0%9F%9B%A0%EF%B8%8F;Always+exploring+new+places+%F0%9F%8C%8F;Let%27s+connect+and+collaborate!)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="./img.png" alt="aasthamahindra"/>
-</p>
+*Software Engineer · Wanderer · Lifelong Learner*
 
-<p align="center">
-  📫 How to reach me: <strong>aastha.mahindra125@gmail.com</strong>
-  <br/>
-  ⚡ Fun fact: <strong>I'm obsessed with Travelling 🌏</strong>
-</p>
+### `< building things · exploring the world />`
 
----
+</div>
+<div align="center">
 
-<h2 align="center">Connect with me</h2>
+## About Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/aastha-mahindra" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aastha-mahindra" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://hashnode.com/@aasthamahindra" target="blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="@aasthamahindra" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/aastham16/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="40"/>
-  </a>
-</p>
+</div>
 
-<!-- <h2 align="center">Languages and Tools</h2>
+```yaml
+name: Aastha Mahindra
+location: 🌍 Somewhere in the world (probably travelling)
+email: aastha.mahindra125@gmail.com
+fun_fact: Obsessed with travelling — passport always ready 🌏
+currently: Building, learning, and exploring
+```
 
 <div align="center">
 
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/></a>
-<a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="60" height="60"/></a> 
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/></a>
-<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="60" height="60"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/></a>
+## Languages & Tools
 
-</div> -->
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,python,graphql,mongodb,mysql,postgresql,redis,git" />
+</a>
+
+</div>
+
+<div align="center">
+
+## Connect With Me
+
+<a href="https://linkedin.com/in/aastha-mahindra" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://hashnode.com/@aasthamahindra" target="_blank">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30" alt="Hashnode"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/aastham16/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" alt="LeetCode"/>
+</a>
+&nbsp;
+<a href="mailto:aastha.mahindra125@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail"/>
+</a>
+
+</div>
+
+<div align="center">
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthamahindra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" width="41%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthamahindra&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" width="60%"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthamahindra&show_icons=true&locale=en&layout=compact" alt="aasthamahindra" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aasthamahindra&show_icons=true&locale=en" alt="aasthamahindra" />
-</p>
+*"Not all those who wander are lost."* — J.R.R. Tolkien
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthamahindra&" alt="aasthamahindra" />
-</p>
+</div>
