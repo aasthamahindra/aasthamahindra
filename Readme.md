@@ -28,9 +28,7 @@
   </a>
 </p>
 
----
-
-<h2 align="center">Languages and Tools</h2>
+<!-- <h2 align="center">Languages and Tools</h2>
 
 <div align="center">
 
@@ -45,7 +43,7 @@
 <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="60" height="60"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60"/></a>
 
-</div>
+</div> -->
 
 ---
 
