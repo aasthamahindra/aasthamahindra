@@ -59,7 +59,7 @@ currently: Building, learning, and exploring
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthamahindra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" width="41%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthamahindra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" width="41%"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthamahindra&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" width="60%"/>
 
